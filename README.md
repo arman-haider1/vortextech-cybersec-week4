@@ -72,5 +72,5 @@ This project uses a fictional company and hypothetical breach scenario for cyber
 **Arman Haider**  
 Cyber Security Intern
 
-**VORTEXTECH Cyber Security Internship — Week 4 Advanced**
+**Vortextech Cyber Security Internship — Week 4 Advanced**
 
